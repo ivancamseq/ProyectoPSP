@@ -27,7 +27,7 @@ public class AgenciaVuelosPSP_AdminS {
 
             CPrincipalAdminS vistaPrincipal = new CPrincipalAdminS();
 
-            vistaPrincipal.setVisible(true); // ponemos la ventana a true para que sea visible
+             // ponemos la ventana a true para que sea visible
         
 
     }
