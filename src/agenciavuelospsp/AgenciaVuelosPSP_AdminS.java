@@ -29,6 +29,7 @@ public class AgenciaVuelosPSP_AdminS {
 
             vistaPrincipal.setVisible(true);
             //PRUBEA GIT
+            //PRUEBA
              // ponemos la ventana a true para que sea visible
         
 
