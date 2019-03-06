@@ -27,6 +27,8 @@ public class AgenciaVuelosPSP_AdminS {
 
             CPrincipalAdminS vistaPrincipal = new CPrincipalAdminS();
 
+            vistaPrincipal.setVisible(true);
+            //PRUBEA GIT
              // ponemos la ventana a true para que sea visible
         
 
